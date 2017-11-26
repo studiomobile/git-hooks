@@ -4,4 +4,4 @@ For example, `<feature/add-something> Add very useful stuff`.
 
 Doesn't add a branch name if a commit message starts with `<`.
 
-To install, simply copy files from `hooks` folder to `.git/hooks` folder of your Git project.
+To install, simply copy files from `hooks` folder to `.git/hooks` folder of your Git project. After that, execute `chmod +x .git/hooks/*`.
